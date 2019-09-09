@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Barduino", "Barduino.vcxproj", "{C51A1BF3-491C-4451-B1F8-F8900C1A1870}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C51A1BF3-491C-4451-B1F8-F8900C1A1870}.Debug|x86.ActiveCfg = Debug|Win32
+		{C51A1BF3-491C-4451-B1F8-F8900C1A1870}.Debug|x86.Build.0 = Debug|Win32
+		{C51A1BF3-491C-4451-B1F8-F8900C1A1870}.Release|x86.ActiveCfg = Release|Win32
+		{C51A1BF3-491C-4451-B1F8-F8900C1A1870}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {263263A7-F4FE-4013-82C9-6487077C1B0A}
+	EndGlobalSection
+EndGlobal
